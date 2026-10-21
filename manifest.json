@@ -1,15 +1,17 @@
 {
   "name": "Neon Horizon: Star Glider",
   "short_name": "Neon Horizon",
-  "start_url": "https://mohdqaz5-dev.github.io/Neon-Horizon/",
+  "description": "Retro-neon endless runner. One thumb, one ship, infinite horizon.",
+  "start_url": "./",
   "scope": "./",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "background_color": "#05050f",
   "theme_color": "#05050f",
+  "dir": "ltr",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "launchericon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
