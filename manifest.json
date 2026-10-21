@@ -1,21 +1,18 @@
 {
   "name": "Neon Horizon: Star Glider",
   "short_name": "Neon Horizon",
-  "description": "A retro-neon arcade runner. Drag to glide, chain orbs, survive ion storms.",
-  "id": "/",
   "start_url": "https://mohdqaz5-dev.github.io/Neon-Horizon/",
   "scope": "./",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#05050f",
   "theme_color": "#05050f",
-  "lang": "en",
-  "prefer_related_applications": false
   "icons": [
     {
       "src": "icon.png",
-      "sizes": "526x526",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    },
+    }
+  ]
 }
