@@ -1,12 +1,14 @@
 {
-  "background_color": "#ffffff",
-  "description": "Retro-neon endless runner. One thumb, one ship, infinite horizon.",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Neon Horizon",
-  "orientation": "portrait",
-  "scope": "/",
+  "name": "Neon Horizon: Star Glider",
   "short_name": "Neon Horizon",
-  "start_url": "/https://mohdqaz5-dev.github.io/Neon-Horizon/",
-  "theme_color": "#05050f"
+  "description": "A retro-neon arcade runner. Drag to glide, chain orbs, survive ion storms.",
+  "id": "/",
+  "start_url": "https://mohdqaz5-dev.github.io/Neon-Horizon/",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#05050f",
+  "theme_color": "#05050f",
+  "lang": "en",
+  "prefer_related_applications": false
 }
