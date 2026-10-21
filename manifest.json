@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Retro-neon endless runner. One thumb, one ship, infinite horizon.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Neon Horizon",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Neon Horizon",
+  "start_url": "/https://mohdqaz5-dev.github.io/Neon-Horizon/",
+  "theme_color": "#05050f"
+}
