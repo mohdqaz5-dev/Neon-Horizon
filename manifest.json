@@ -11,4 +11,11 @@
   "theme_color": "#05050f",
   "lang": "en",
   "prefer_related_applications": false
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "526x526",
+      "type": "image/png",
+      "purpose": "any"
+    },
 }
