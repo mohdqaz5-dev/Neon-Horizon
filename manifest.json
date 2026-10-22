@@ -2,7 +2,7 @@
   "name": "Neon Horizon: Star Glider",
   "short_name": "Neon Horizon",
   "description": "Retro-neon endless runner. One thumb, one ship, infinite horizon.",
-  "start_url": "./",
+  "start_url": "https://mohdqaz5-dev.github.io/Neon-Horizon/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
